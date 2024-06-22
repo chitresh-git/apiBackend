@@ -1,0 +1,444 @@
+[
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Rugbyrama",
+    "title": "La composition de l'UBB pour la demie : Garcia titulaire, Tambwe hors groupe - Rugbyrama",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5ydWdieXJhbWEuZnIvMjAyNC8wNi8yMS9kZW1pLWZpbmFsZXMtdG9wLTE0LWxhLWNvbXBvc2l0aW9uLWRlLWx1bmlvbi1ib3JkZWF1eC1iZWdsZXMtcG91ci1sYS1kZW1pLWZpbmFsZS1nYXJjaWEtdGl0dWxhaXJlLW1hZG9zaC10YW1id2UtaG9ycy1ncm91cGUtMTIwMzIwMTIucGhw0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T16:12:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Purepeople",
+    "title": "Thomas Dutronc prend la parole après la cérémonie d'adieu à sa maman Françoise Hardy : \"J'ai hésité, par pudeur...\" - Purepeople",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5wdXJlcGVvcGxlLmNvbS9hcnRpY2xlL3Rob21hcy1kdXRyb25jLXByZW5kLWxhLXBhcm9sZS1hcHJlcy1sYS1jZXJlbW9uaWUtZC1hZGlldS1hLXNhLW1hbWFuLWZyYW5jb2lzZS1oYXJkeS1qLWFpLWhlc2l0ZS1wYXItcHVkZXVyX2E1MjQ1MDUvMdIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T15:13:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "RMC Sport",
+    "title": "France-Pays-Bas: la composition des Bleus pour le deuxième match de l'Euro, avec Mbappé sur le banc - RMC Sport",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMinwFodHRwczovL3JtY3Nwb3J0LmJmbXR2LmNvbS9mb290YmFsbC9ldXJvL2ZyYW5jZS1wYXlzLWJhcy1sYS1jb21wb3NpdGlvbi1kZXMtYmxldXMtcG91ci1sZS1kZXV4aWVtZS1tYXRjaC1kZS1sLWV1cm8tYXZlYy1tYmFwcGUtc3VyLWxlLWJhbmNfQVYtMjAyNDA2MjEwNTk3Lmh0bWzSAaMBaHR0cHM6Ly9ybWNzcG9ydC5iZm10di5jb20vYW1wL2Zvb3RiYWxsL2V1cm8vZnJhbmNlLXBheXMtYmFzLWxhLWNvbXBvc2l0aW9uLWRlcy1ibGV1cy1wb3VyLWxlLWRldXhpZW1lLW1hdGNoLWRlLWwtZXVyby1hdmVjLW1iYXBwZS1zdXItbGUtYmFuY19BVi0yMDI0MDYyMTA1OTcuaHRtbA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T14:21:11Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Le Monde",
+    "title": "En direct, législatives 2024 : Gérald Darmanin affirme qu'il ne sera plus ministre de l'intérieur en cas de défaite de la majorité - Le Monde",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMitgFodHRwczovL3d3dy5sZW1vbmRlLmZyL3BvbGl0aXF1ZS9saXZlLzIwMjQvMDYvMjEvZW4tZGlyZWN0LWxlZ2lzbGF0aXZlcy0yMDI0LWdlcmFsZC1kYXJtYW5pbi1uZS1zZXJhLXBsdXMtbWluaXN0cmUtZGUtbC1pbnRlcmlldXItZW4tY2FzLWRlLWRlZmFpdGUtZGUtbGEtbWFqb3JpdGVfNjI0MTkzNl84MjM0NDguaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T14:04:26Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Le Monde",
+    "title": "En direct, guerre en Ukraine : les Vingt-Sept confirment l'ouverture de négociations formelles d'adhésion avec l'Ukraine et la Moldavie - Le Monde",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiywFodHRwczovL3d3dy5sZW1vbmRlLmZyL2ludGVybmF0aW9uYWwvbGl2ZS8yMDI0LzA2LzIxL2VuLWRpcmVjdC1ndWVycmUtZW4tdWtyYWluZS1sZXMtdmluZ3Qtc2VwdC1jb25maXJtZW50LWwtb3V2ZXJ0dXJlLWRlLW5lZ29jaWF0aW9ucy1mb3JtZWxsZXMtZC1hZGhlc2lvbi1hdmVjLWwtdWtyYWluZS1ldC1sYS1tb2xkYXZpZV82MjQwNTA1XzMyMTAuaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T13:40:09Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Le Monde",
+    "title": "Raphaël Glucksmann et l'union de la gauche, ses confidences sur un mariage de raison - Le Monde",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5sZW1vbmRlLmZyL3BvbGl0aXF1ZS9hcnRpY2xlLzIwMjQvMDYvMjEvcmFwaGFlbC1nbHVja3NtYW5uLWV0LWwtdW5pb24tZGUtbGEtZ2F1Y2hlLXNlcy1jb25maWRlbmNlcy1zdXItdW4tbWFyaWFnZS1kZS1yYWlzb25fNjI0MjExNF84MjM0NDguaHRtbNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T13:35:54Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Le HuffPost",
+    "title": "Clara Luciani, Eddy de Pretto et 500 artistes appellent à faire barrage à l'extrême droite - Le HuffPost",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5odWZmaW5ndG9ucG9zdC5mci9jdWx0dXJlL2FydGljbGUvbGVnaXNsYXRpdmVzLTIwMjQtZmFjZS1sLWV4dHJlbWUtZHJvaXRlLWNsYXJhLWx1Y2lhbmktZWRkeS1kZS1wcmV0dG8tZXQtNTAwLWFydGlzdGVzLWFwcGVsbGVudC1hLWZhaXJlLWJhcnJhZ2VfMjM1ODM2Lmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T13:14:52Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "L'Équipe",
+    "title": "Romain Bardet arrêtera sa carrière en juin 2025 après le Critérium du Dauphiné - L'Équipe",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5sZXF1aXBlLmZyL0N5Y2xpc21lLXN1ci1yb3V0ZS9BY3R1YWxpdGVzL1JvbWFpbi1iYXJkZXQtYXJyZXRlcmEtc2EtY2FycmllcmUtZW4tanVpbi0yMDI1LWFwcmVzLWxlLWNyaXRlcml1bS1kdS1kYXVwaGluZS8xNDc2NDE40gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T13:00:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "RFI",
+    "title": "Les États-Unis vont donner la priorité à l'Ukraine pour les livraisons de missiles anti-aériens - RFI",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5yZmkuZnIvZnIvZXVyb3BlLzIwMjQwNjIxLWxlcy0lQzMlQTl0YXRzLXVuaXMtdm9udC1kb25uZXItbGEtcHJpb3JpdCVDMyVBOS0lQzMlQTAtbC11a3JhaW5lLXBvdXItbGVzLWxpdnJhaXNvbnMtZGUtbWlzc2lsZXMtYW50aS1hJUMzJUE5cmllbnPSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T12:52:17Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "L'Indépendant",
+    "title": "JO de Paris: A un mois et demi des épreuves, la Seine encore trop polluée à la bactérie E. Coli - L'Indépendant",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmxpbmRlcGVuZGFudC5mci8yMDI0LzA2LzIxL2pvLWRlLXBhcmlzLWEtdW4tbW9pcy1ldC1kZW1pLWRlcy1lcHJldXZlcy1sYS1zZWluZS1lbmNvcmUtdHJvcC1wb2xsdWVlLTEyMDMxOTI4LnBocNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T12:24:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "RMC",
+    "title": "INFO RMC. La Mecque: deux Français figurent parmi les 1.000 morts à cause de la chaleur - RMC",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3JtYy5iZm10di5jb20vYWN0dWFsaXRlcy9pbnRlcm5hdGlvbmFsL2NhbmljdWxlLWEtbGEtbWVjcXVlLWRldXgtZnJhbmNhaXMtc29udC1kZWNlZGVzLXBhcm1pLWxlcy1jZW50YWluZXMtZGUtdmljdGltZXNfQVYtMjAyNDA2MjEwNDY4Lmh0bWzSAZcBaHR0cHM6Ly9ybWMuYmZtdHYuY29tL2FtcC9hY3R1YWxpdGVzL2ludGVybmF0aW9uYWwvY2FuaWN1bGUtYS1sYS1tZWNxdWUtZGV1eC1mcmFuY2Fpcy1zb250LWRlY2VkZXMtcGFybWktbGVzLWNlbnRhaW5lcy1kZS12aWN0aW1lc19BVi0yMDI0MDYyMTA0NjguaHRtbA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T11:56:44Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Phonandroid",
+    "title": "ChatGPT, c’est dépassé : voici la nouvelle IA qui fait mieux à tous les niveaux - Phonandroid",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnBob25hbmRyb2lkLmNvbS9jaGF0Z3B0LWNlc3QtZGVwYXNzZS12b2ljaS1sYS1ub3V2ZWxsZS1pYS1xdWktZmFpdC1taWV1eC1hLXRvdXMtbGVzLW5pdmVhdXguaHRtbNIBcGh0dHBzOi8vd3d3LnBob25hbmRyb2lkLmNvbS9jaGF0Z3B0LWNlc3QtZGVwYXNzZS12b2ljaS1sYS1ub3V2ZWxsZS1pYS1xdWktZmFpdC1taWV1eC1hLXRvdXMtbGVzLW5pdmVhdXguaHRtbC9hbXA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T11:50:07Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "20 Minutes",
+    "title": "Camaïeu bientôt de retour dans les boutiques Celio, comme l'avait annoncé Lena Situations - 20 Minutes",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LjIwbWludXRlcy5mci90ZW1wby80MDk3NDQ5LTIwMjQwNjIxLWNhbWFpZXUtYmllbnRvdC1yZXRvdXItYm91dGlxdWVzLWNlbGlvLWNvbW1lLWFubm9uY2UtbGVuYS1zaXR1YXRpb25z0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T11:22:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Nice matin",
+    "title": "EasyJet lance une nouvelle ligne depuis Nice pour l'hiver prochain: attendez-vous à en prendre plein les yeux et à avoir froid! - Nice matin",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5uaWNlbWF0aW4uY29tL3RyYW5zcG9ydHMvZWFzeWpldC1sYW5jZS11bmUtbm91dmVsbGUtbGlnbmUtZGVwdWlzLW5pY2UtcG91ci1saGl2ZXItcHJvY2hhaW4tYXR0ZW5kZXotdm91cy1hLWVuLXByZW5kcmUtcGxlaW4tbGVzLXlldXgtZXQtYS1hdm9pci1mcm9pZC05MjkxNDbSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T11:16:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Le Figaro",
+    "title": "Le Nouveau Front populaire veut récupérer 15 milliards d'euros dès 2024 en instaurant un ISF «avec une composante climatique» - Le Figaro",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9jb25qb25jdHVyZS9sZS1ub3V2ZWF1LWZyb250LXBvcHVsYWlyZS12ZXV0LXJlY3VwZXJlci0xNS1taWxsaWFyZHMtZC1ldXJvcy1kZXMtMjAyNC1lbi1pbnN0YXVyYW50LXVuLWlzZi1hdmVjLXVuZS1jb21wb3NhbnRlLWNsaW1hdGlxdWUtMjAyNDA2MjHSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T11:03:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Le Figaro",
+    "title": "Délais de paiement: 30 millions d'euros d'amendes au total contre Renault, Ikea ou ArcelorMittal - Le Figaro",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9jb25qb25jdHVyZS9kZWxhaXMtZGUtcGFpZW1lbnQtMzAtbWlsbGlvbnMtZC1ldXJvcy1kLWFtZW5kZXMtYXUtdG90YWwtY29udHJlLXJlbmF1bHQtaWtlYS1vdS1hcmNlbG9ybWl0dGFsLTIwMjQwNjIx0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T10:46:50Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "actu.fr",
+    "title": "Législatives : \"cloportes\", \"majorité tuée\"... Écœurés, les macronistes lâchent Emmanuel Macron un à un - actu.fr",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL2FjdHUuZnIvcG9saXRpcXVlL2VsZWN0aW9ucy1sZWdpc2xhdGl2ZXMvbGVnaXNsYXRpdmVzLWNsb3BvcnRlcy1tYWpvcml0ZS10dWVlLWVjb2V1cmVzLWxlcy1tYWNyb25pc3Rlcy1sYWNoZW50LWVtbWFudWVsLW1hY3Jvbi11bi1hLXVuXzYxMjM4NDYxLmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T10:45:34Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "L'Indépendant",
+    "title": "Deux décès dont celui d'une fillette de 3 ans, plus de 200 contaminations… Mayotte durement touchée par une épidémie de choléra - L'Indépendant",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5saW5kZXBlbmRhbnQuZnIvMjAyNC8wNi8yMS9kZXV4LWRlY2VzLWRvbnQtY2VsdWktZHVuZS1maWxsZXR0ZS1kZS0zLWFucy1wbHVzLWRlLTIwMC1jb250YW1pbmF0aW9ucy1tYXlvdHRlLWR1cmVtZW50LXRvdWNoZWUtcGFyLXVuZS1lcGlkZW1pZS1kZS1jaG9sZXJhLTEyMDMxNzcxLnBocNIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T10:36:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "LaDepeche.fr",
+    "title": "Demi-finale Stade Toulousain – La Rochelle : à quelle heure et sur quelle chaîne suivre le match ? - LaDepeche.fr",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5sYWRlcGVjaGUuZnIvMjAyNC8wNi8yMS9kZW1pLWZpbmFsZS1zdGFkZS10b3Vsb3VzYWluLWxhLXJvY2hlbGxlLWEtcXVlbGxlLWhldXJlLWV0LXN1ci1xdWVsbGUtY2hhaW5lLXN1aXZyZS1sZS1tYXRjaC0xMjAzMDExMy5waHDSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T10:00:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Europe 1",
+    "title": "Pascal Praud et vous - Législatives 2024 : «Jordan Bardella s'est trompé stratégiquement, il aurait dû... - Europe 1",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMivgFodHRwczovL3d3dy5ldXJvcGUxLmZyL3BvbGl0aXF1ZS9wYXNjYWwtcHJhdWQtZXQtdm91cy1sZWdpc2xhdGl2ZXMtMjAyNC1qb3JkYW4tYmFyZGVsbGEtc2VzdC10cm9tcGUtc3RyYXRlZ2lxdWVtZW50LWlsLWF1cmFpdC1kdS1kb25uZXItbGVzdG9jYWRlLWF1LWxpZXUtZGUtcmVjdWxlci1zZWxvbi11bi1hdWRpdGV1ci00MjU0MDMy0gHCAWh0dHBzOi8vd3d3LmV1cm9wZTEuZnIvcG9saXRpcXVlL3Bhc2NhbC1wcmF1ZC1ldC12b3VzLWxlZ2lzbGF0aXZlcy0yMDI0LWpvcmRhbi1iYXJkZWxsYS1zZXN0LXRyb21wZS1zdHJhdGVnaXF1ZW1lbnQtaWwtYXVyYWl0LWR1LWRvbm5lci1sZXN0b2NhZGUtYXUtbGlldS1kZS1yZWN1bGVyLXNlbG9uLXVuLWF1ZGl0ZXVyLTQyNTQwMzIuYW1w?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T09:50:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Ouest-France",
+    "title": "TÉMOIGNAGE. Maladie de Charcot : son mari est décédé à 37 ans, onze mois après le diagnostic - Ouest-France",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvc2FudGUvbWFsYWRpZXMvdGVtb2lnbmFnZS1tYWxhZGllLWRlLWNoYXJjb3Qtc29uLW1hcmktZXN0LWRlY2VkZS1hLTM3LWFucy1vbnplLW1vaXMtYXByZXMtbGUtZGlhZ25vc3RpYy04NTZjMDY0OC0yZWU2LTExZWYtOWQ4Yi04MThlZGNhYjg2MzDSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T08:44:50Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Le HuffPost",
+    "title": "Mal de dos : les promenades régulières aident à prévenir la récurrence des douleurs, selon une étude australienne - Le HuffPost",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5odWZmaW5ndG9ucG9zdC5mci9saWZlL2FydGljbGUvbWFsLWRlLWRvcy1sZXMtcHJvbWVuYWRlcy1yZWd1bGllcmVzLWFpZGVudC1hLXByZXZlbmlyLWxhLXJlY3VycmVuY2UtZGVzLWRvdWxldXJzLXNlbG9uLXVuZS1ldHVkZS1hdXN0cmFsaWVubmVfMjM1Nzg2Lmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T07:55:05Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Libération",
+    "title": "Antisémitisme : la diabolisation de LFI fait oublier que l'extrême droite est le vrai danger pour notre démocratie - Libération",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiuAFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3BvbGl0aXF1ZS9hbnRpc2VtaXRpc21lLWxhLWRpYWJvbGlzYXRpb24tZGUtbGZpLWZhaXQtb3VibGllci1xdWUtbGV4dHJlbWUtZHJvaXRlLWVzdC1sZS12cmFpLWRhbmdlci1wb3VyLW5vdHJlLWRlbW9jcmF0aWUtMjAyNDA2MjFfTUJETTVQV1JGVkFKSktDUERGQ0tVRElHS0kv0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T07:28:40Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Le Figaro",
+    "title": "Législatives 2024: des marches féministes dimanche contre le RN - Le Figaro",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmxlZmlnYXJvLmZyL2FjdHVhbGl0ZS1mcmFuY2UvbGVnaXNsYXRpdmVzLTIwMjQtZGVzLW1hcmNoZXMtZmVtaW5pc3Rlcy1kaW1hbmNoZS1jb250cmUtbGUtcm4tMjAyNDA2MjHSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T07:27:19Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "CNEWS",
+    "title": "Mort de Donald Sutherland : son fils Kiefer, Will Smith, Helen Mirren, Jane Fonda, Ron Howard et bien d'autres stars rendent hommage à un acteur à «l’excellence suprême» - CNEWS",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmNuZXdzLmZyL2N1bHR1cmUvMjAyNC0wNi0yMS9tb3J0LWRlLWRvbmFsZC1zdXRoZXJsYW5kLXNvbi1maWxzLWtpZWZlci13aWxsLXNtaXRoLWhlbGVuLW1pcnJlbi1qYW5lLWZvbmRhLXJvbtIBfGh0dHBzOi8vd3d3LmNuZXdzLmZyL2N1bHR1cmUvMjAyNC0wNi0yMS9tb3J0LWRlLWRvbmFsZC1zdXRoZXJsYW5kLXNvbi1maWxzLWtpZWZlci13aWxsLXNtaXRoLWhlbGVuLW1pcnJlbi1qYW5lLWZvbmRhLXJvbj9hbXA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T07:26:35Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Le Journal du dimanche",
+    "title": "Législatives : Bruno Le Maire cible les conseillers “cloportes“ d'Emmanuel Macron - Le Journal du dimanche",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxlamRkLmZyL3BvbGl0aXF1ZS9sZWdpc2xhdGl2ZXMtYnJ1bm8tbGUtbWFpcmUtY2libGUtbGVzLWNvbnNlaWxsZXJzLWNsb3BvcnRlcy1kZW1tYW51ZWwtbWFjcm9uLTE0NjYyNdIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T07:20:54Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Paris Match",
+    "title": "Viol d'une jeune fille à Courbevoie : ce que l'on sait des agresseurs présumés - Paris Match",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnBhcmlzbWF0Y2guY29tL2FjdHUvZmFpdHMtZGl2ZXJzL3Zpb2wtZHVuZS1qZXVuZS1maWxsZS1jb3VyYmV2b2llLWNlLXF1ZS1sb24tc2FpdC1kZXMtYWdyZXNzZXVycy1wcmVzdW1lcy0yMzg3ODXSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T07:18:19Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Frandroid",
+    "title": "Cette vilaine pliure semble tenace sur les Galaxy Z Fold 6 et Z Flip 6 - Frandroid",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZyYW5kcm9pZC5jb20vbWFycXVlcy9zYW1zdW5nLzIwNTUyMTJfY2V0dGUtdmlsYWluZS1wbGl1cmUtc2VtYmxlLXRlbmFjZS1zdXItbGVzLWdhbGF4eS16LWZvbGQtNi1ldC16LWZsaXAtNtIBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T06:28:46Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Empruntis",
+    "title": "Dissolution de l'Assemblée : le marché immobilier dans l'incertitude ? - Empruntis",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmVtcHJ1bnRpcy5jb20vZmluYW5jZW1lbnQvYWN0dWFsaXRlcy9kaXNzb2x1dGlvbi1hc3NlbWJsZWUtbWFyY2hlLWltbW9iaWxpZXItZGFucy1pbmNlcnRpdHVkZS0xODA1MS5waHDSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T05:52:09Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "TF1 INFO",
+    "title": "Poutine menace encore de fournir des armes à la Corée du Nord, les États-Unis très préoccupés - TF1 INFO",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMitwFodHRwczovL3d3dy50ZjFpbmZvLmZyL2ludGVybmF0aW9uYWwvZ3VlcnJlLXVrcmFpbmUtcnVzc2llLXZsYWRpbWlyLXBvdXRpbmUtbWVuYWNlLWVuY29yZS1kZS1mb3VybmlyLWRlcy1hcm1lcy1hLWxhLWNvcmVlLWR1LW5vcmQtZGUta2ltLWpvbmctdW4td2FzaGluZ3Rvbi10cmVzLXByZW9jY3VwZS0yMzA1MDY3Lmh0bWzSAbsBaHR0cHM6Ly93d3cudGYxaW5mby5mci9hbXAvaW50ZXJuYXRpb25hbC9ndWVycmUtdWtyYWluZS1ydXNzaWUtdmxhZGltaXItcG91dGluZS1tZW5hY2UtZW5jb3JlLWRlLWZvdXJuaXItZGVzLWFybWVzLWEtbGEtY29yZWUtZHUtbm9yZC1kZS1raW0tam9uZy11bi13YXNoaW5ndG9uLXRyZXMtcHJlb2NjdXBlLTIzMDUwNjcuaHRtbA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T05:10:34Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Linternaute.com",
+    "title": "Ce film fait mieux qu'\"Un p'tit truc en plus\" : à peine sorti, il cartonne déjà au cinéma - Linternaute.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmxpbnRlcm5hdXRlLmNvbS9jaW5lbWEvbWFnYXppbmUvNTUzNzg1NS1hcnRpY2xlLXZpY2UtdmVyc2EtMi_SAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T05:08:11Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "jeuxvideo.com",
+    "title": "\"Ne dévoilez rien !\" Le développeur d'Elden Ring supplie les joueurs de ne pas spoiler l'intrigue du DLC sur Internet ! - jeuxvideo.com",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMinAFodHRwczovL3d3dy5qZXV4dmlkZW8uY29tL25ld3MvMTg5NjEyNC9uZS1kZXZvaWxlei1yaWVuLWxlLWRldmVsb3BwZXVyLWQtZWxkZW4tcmluZy1zdXBwbGllLWxlcy1qb3VldXJzLWRlLW5lLXBhcy1zcG9pbGVyLWwtaW50cmlndWUtZHUtZGxjLXN1ci1pbnRlcm5ldC5odG3SAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T03:20:02Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "20 Minutes",
+    "title": "Café, acupuncture… Les solutions naturelles permettent-elles vraiment de soulager la migraine ? - 20 Minutes",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy4yMG1pbnV0ZXMuZnIvdGVtcG8vYmllbi1ldHJlLzQwOTczMTctMjAyNDA2MjEtY2FmZS1hY3VwdW5jdHVyZS1zb2x1dGlvbnMtbmF0dXJlbGxlcy1wZXJtZXR0ZW50LWVsbGVzLXZyYWltZW50LXNvdWxhZ2VyLW1pZ3JhaW5l0gEA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-21T03:02:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "google-news",
+      "name": "Google News"
+    },
+    "author": "Les Numériques",
+    "title": "Parler avec Gemini dans Google Message, c'est désormais possible sur presque tous les smartphones... et presque partout - Les Numériques",
+    "description": null,
+    "url": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5sZXNudW1lcmlxdWVzLmNvbS90ZWxlcGhvbmUtcG9ydGFibGUvcGFybGVyLWF2ZWMtZ2VtaW5pLWRhbnMtZ29vZ2xlLW1lc3NhZ2UtYy1lc3QtZGVzb3JtYWlzLXBvc3NpYmxlLXN1ci1wcmVzcXVlLXRvdXMtbGVzLXNtYXJ0cGhvbmVzLWV0LXByZXNxdWUtcGFydG91dC1uMjIzMDg3Lmh0bWzSAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2024-06-20T11:22:00Z",
+    "content": null
+  }
+]
